@@ -27,3 +27,5 @@ npm install
 ```
 run.bat
 ```
+
+Then open a browser and navigate to [http://localhost:5173](http://localhost:5173).
